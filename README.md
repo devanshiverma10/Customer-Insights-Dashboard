@@ -109,10 +109,11 @@ Customer Category
 These filters allow users to perform dynamic and focused analysis.
 
 ### • Business Impact & Insights
-Improved Customer Segmentation: The dashboard clearly identified VIP, Loyal, and Periodic Buyers, helping businesses focus on high-value customer retention strategies.
-Better Demographic Understanding: Analysis showed that customers with children contributed significantly higher revenue than customers without children.
-Targeted Marketing Opportunities: Age-group and gender analysis revealed customer segments contributing maximum revenue, enabling more personalized marketing strategies.
-Enhanced Decision-Making: Interactive slicers and dynamic visuals allow faster business analysis and support data-driven strategic planning.
+-Improved Customer Segmentation: The dashboard clearly identified VIP, Loyal, and Periodic Buyers, helping businesses focus on high-value customer retention strategies.
+-Better Demographic Understanding: Analysis showed that customers with children contributed significantly higher revenue than customers without children.
+-Targeted Marketing Opportunities: Age-group and gender analysis revealed customer segments contributing maximum revenue, enabling more personalized marketing strategies.
+-Enhanced Decision-Making: Interactive slicers and dynamic visuals allow faster business analysis and support data-driven strategic planning.
 
 ### 4.	Screenshots / Demos
 The dashboard looks like. - 
+https://github.com/devanshiverma10/Customer-Insights-Dashboard/blob/main/Dashboard%20Snap.png
