@@ -113,3 +113,6 @@ Improved Customer Segmentation: The dashboard clearly identified VIP, Loyal, and
 Better Demographic Understanding: Analysis showed that customers with children contributed significantly higher revenue than customers without children.
 Targeted Marketing Opportunities: Age-group and gender analysis revealed customer segments contributing maximum revenue, enabling more personalized marketing strategies.
 Enhanced Decision-Making: Interactive slicers and dynamic visuals allow faster business analysis and support data-driven strategic planning.
+
+### 4.	Screenshots / Demos
+The dashboard looks like. - 
