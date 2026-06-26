@@ -1,11 +1,9 @@
 # Customer-Insights-Dashboard
 
-# 1. Short Description / Purpose
-
+### 1. Short Description / Purpose
 Developed an interactive Customer Insights Dashboard using the AdventureWorksDW dataset to analyze customer demographics, purchasing behavior, and revenue contribution. The dashboard provides meaningful insights into customer segmentation, family-based purchasing patterns, age-group revenue trends, and top-performing customers to support data-driven business decisions.
 
-# 2. Tech Stack
-
+### 2. Tech Stack
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main data visualization platform used to build the dashboard and reports.
@@ -13,8 +11,10 @@ The dashboard was built using the following tools and technologies:
 🧠 DAX (Data Analysis Expressions) – Used to create calculated columns, measures, KPIs, and dynamic filtering logic.
 📝 Data Modeling – Relationships were created between fact and dimension tables for proper aggregation and cross-filtering.
 📁 File Format – .pbix for development and .pdf/.png for dashboard preview and reporting.
-3. Features / Highlights
-• Business Problem
+
+### 3. Features / Highlights
+
+### • Business Problem
 
 Businesses often struggle to understand customer purchasing behavior, revenue distribution, and demographic patterns from raw transactional data. Without a proper analytical system, identifying valuable customers and revenue-driving segments becomes difficult.
 
@@ -29,8 +29,7 @@ How does revenue vary across gender and age groups?
 
 …are difficult to answer efficiently using raw data alone.
 
-• Goal of the Dashboard
-
+### • Goal of the Dashboard
 To build an interactive analytical dashboard that enables:
 
 Customer behavior analysis
@@ -41,7 +40,7 @@ Dynamic filtering for deeper analysis
 
 The main objective was to transform raw customer and sales data into actionable business intelligence.
 
-• Walkthrough of Key Visuals
+### • Walkthrough of Key Visuals
 Key KPIs
 
 The dashboard displays major KPIs including:
@@ -109,7 +108,7 @@ Customer Category
 
 These filters allow users to perform dynamic and focused analysis.
 
-• Business Impact & Insights
+### • Business Impact & Insights
 Improved Customer Segmentation: The dashboard clearly identified VIP, Loyal, and Periodic Buyers, helping businesses focus on high-value customer retention strategies.
 Better Demographic Understanding: Analysis showed that customers with children contributed significantly higher revenue than customers without children.
 Targeted Marketing Opportunities: Age-group and gender analysis revealed customer segments contributing maximum revenue, enabling more personalized marketing strategies.
