@@ -45,11 +45,11 @@ The main objective was to transform raw customer and sales data into actionable 
 - Key KPIs<br>
 The dashboard displays major KPIs including:<br>
 
-Total Customers (18K)<br>
-Total Revenue (29.36M)<br>
-Average Customer Age (46.45)<br>
+  Total Customers (18K)<br>
+  Total Revenue (29.36M)<br>
+  Average Customer Age (46.45)<br>
 
-These KPIs provide a quick overview of business performance.<br>
+  These KPIs provide a quick overview of business performance.<br>
 
 - Esteemed Buyers (Horizontal Bar Chart)<br>
 Shows the top revenue-generating customers based on ranking analysis.
